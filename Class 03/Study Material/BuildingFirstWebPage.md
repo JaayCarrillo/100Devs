@@ -26,6 +26,7 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 3. Must have these declarations: 
 * <!DOCTYPE html>, <html>, <head>, and <body>
 * Example: 
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,8 +38,9 @@ Depending on your IDE there are often short cuts that can do this for you. If us
         <p>This is a markdown page of things you need to set up your first web page.</p>
     </body>
 </html>
-
+```
 ### Honorable mentions on self closing elements
+```
 * <br> 
 * <img>
 * <meta>
@@ -49,3 +51,4 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 * <hr>
 * <link>
 * <source>
+```
