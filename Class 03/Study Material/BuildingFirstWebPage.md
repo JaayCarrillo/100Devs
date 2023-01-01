@@ -24,8 +24,10 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 1. document will be saved as an .html file extension rather than a .txt or any other extension 
 2. plain text editors will need to be used to begin - there are many out there but these are just a few ex. VSCode, Notepad+, NetBeans, IntelliJ IDea etc. 
 3. Must have these declarations: 
+```
 * <!DOCTYPE html>, <html>, <head>, and <body>
 * Example: 
+```
 ```
 <!DOCTYPE html>
 <html lang="en">
