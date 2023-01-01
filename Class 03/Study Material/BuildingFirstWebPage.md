@@ -25,8 +25,8 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 2. plain text editors will need to be used to begin - there are many out there but these are just a few ex. VSCode, Notepad+, NetBeans, IntelliJ IDea etc. 
 3. Must have these declarations: 
 ```
-* <!DOCTYPE html>, <html>, <head>, and <body>
-* Example: 
+<!DOCTYPE html>, <html>, <head>, and <body>
+Example: 
 ```
 ```
 <!DOCTYPE html>
@@ -45,12 +45,12 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 ```
 <br> 
 <img>
-* <meta>
-* <wbr>
-* <input>
-* <param>
-* <embed>
-* <hr>
-* <link>
-* <source>
+<meta>
+<wbr>
+<input>
+<param>
+<embed>
+<hr>
+<link>
+<source>
 ```
