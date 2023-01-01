@@ -41,8 +41,8 @@ Depending on your IDE there are often short cuts that can do this for you. If us
 ```
 ### Honorable mentions on self closing elements
 ```
-* <br> 
-* <img>
+<br> 
+<img>
 * <meta>
 * <wbr>
 * <input>
