@@ -1,7 +1,8 @@
 # Common CSS Terms: 
 * Selectors: target elements by their element type
 Ex: 
-``` div {...}
+```
+div {...}
 ```
 
 * Properties: 
