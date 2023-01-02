@@ -14,7 +14,7 @@ Helps identify the top of a page, article, section or other segments of your pag
 The ``` <header> ``` element outlines the heading of a segment of a page. That typically falls within the ``` <body> ``` element. 
 
 # Navigation: 
-``` <nav> `` elements identify a section that contains informative navigational links on your web page. 
+``` <nav> ``` elements identify a section that contains informative navigational links on your web page. 
 
 # Article: 
 ``` <article> ``` is for sections of your web page that are independent, self contained content that can be distributed or reusued. Some examples can be blog post, newspaper articles etc. 
